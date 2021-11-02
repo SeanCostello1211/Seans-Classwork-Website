@@ -1,2 +1,13 @@
 p {
-  
+  color: red;
+  text-align: center;
+}
+
+div {
+  color: blue;
+}
+
+a {
+  color: purple;
+}
+
