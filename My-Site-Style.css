@@ -11,3 +11,10 @@ a {
   color: purple;
 }
 
+#para1 {
+  color: green;
+}
+
+.myclass {
+  text-align: right;
+}
