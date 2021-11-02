@@ -18,13 +18,11 @@ a {
 /* This is my comment */
 /* My class text is on right side of the screen*/
 .myclass {
+  color: white;
   text-align: right;
+  background-color: blue;
 }
 
 p.myclass {
   text-decoration: underline;
 {  
-  
-a, header, p {
-  
-{
